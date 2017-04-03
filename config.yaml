@@ -1,0 +1,76 @@
+baseurl: http://example.org/
+languageCode: en-us
+title: Malaysia Open Source Conference MOSC.my
+metaDataFormat: yaml
+
+theme: musang
+# disqusShortname: 
+
+# Emoji is depend on theme
+enableEmoji: true
+
+# Syntax highlight
+# use client-side prismjs
+# or use server-side
+# pygmentsCodeFences: true
+# pygpygmentsuseclasses: false
+# pygmentsStyle: monokai
+# pygmentsCodeFencesGuessSyntax: true
+
+# ======================================================================
+#         Menu 
+# ======================================================================
+
+menu:
+  home:
+    - 
+      name: Home
+      URL: /
+
+    -
+      name: Registration
+      url: /registration
+
+    -
+      name: Schedule
+      url: /schedule
+
+    -
+      name: Venue
+      url: /venue
+
+    -
+      name: MOSCMY Mission
+      url: /mission
+
+    -
+      name: Contact Us
+      url: /contact-us
+
+# ======================================================================
+#         Parameters
+# ======================================================================
+
+params:
+  # Sidebar description
+  description: >
+    The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software. MOSC MY objective is to explore and share the Enterprise- level Open Source solutions and technology.
+
+  themeOptions:
+    sidebar:
+      position: left
+      sticky: none
+
+  # customCss: # arrays
+
+# ======================================================================
+# 
+# ======================================================================
+
+permalinks:
+  blog: :year/:month/:filename
+
+taxonomies:
+  category: categories
+  tag: tags
+
