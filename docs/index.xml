@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malaysia Open Source Conference MOSC.my</title>
-    <link>https://fakhrullah.github.io/moscdotmy/index.xml</link>
+    <link>http://localhost:1313/moscdotmy/index.xml</link>
     <description>Recent content on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Apr 2017 19:53:07 +0800</lastBuildDate>
-    <atom:link href="https://fakhrullah.github.io/moscdotmy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/moscdotmy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>registration</title>
-      <link>https://fakhrullah.github.io/moscdotmy/registration/</link>
+      <link>http://localhost:1313/moscdotmy/registration/</link>
       <pubDate>Mon, 03 Apr 2017 19:53:07 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/registration/</guid>
+      <guid>http://localhost:1313/moscdotmy/registration/</guid>
       <description>&lt;p&gt;Interested ?&lt;/p&gt;
 
 &lt;p&gt;Registration for Malaysia Open Source Conference MOSC MY 2017 is now open.&lt;/p&gt;
@@ -24,28 +24,44 @@
     </item>
     
     <item>
+      <title>Pendaftaran untuk Malaysia Open Source Conference kini dibuka MOSCMY 2017</title>
+      <link>http://localhost:1313/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</link>
+      <pubDate>Mon, 03 Apr 2017 11:47:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017&#34;&gt;https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jadual terkini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/&#34;&gt;http://lanyrd.com/2017/moscmy/&lt;/a&gt;﻿&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://1.bp.blogspot.com/-76HqVhAjCeQ/WOHF0BTsCbI/AAAAAAAAb6Q/ucO5tjv9waAqZ2SNI8Wf7vMo5WssiNT3QCLcB/s1600/MOSCMY2017%2BPromobanner%2B1.png&#34;&gt;&lt;img src=&#34;https://1.bp.blogspot.com/-76HqVhAjCeQ/WOHF0BTsCbI/AAAAAAAAb6Q/ucO5tjv9waAqZ2SNI8Wf7vMo5WssiNT3QCLcB/s320/MOSCMY2017%2BPromobanner%2B1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Malaysia Open Source Conference 2017 MOCMY2017&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>contact us</title>
-      <link>https://fakhrullah.github.io/moscdotmy/contact-us/</link>
+      <link>http://localhost:1313/moscdotmy/contact-us/</link>
       <pubDate>Mon, 03 Apr 2017 19:45:28 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/contact-us/</guid>
+      <guid>http://localhost:1313/moscdotmy/contact-us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Venue</title>
-      <link>https://fakhrullah.github.io/moscdotmy/venue/</link>
+      <link>http://localhost:1313/moscdotmy/venue/</link>
       <pubDate>Mon, 03 Apr 2017 19:45:22 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/venue/</guid>
+      <guid>http://localhost:1313/moscdotmy/venue/</guid>
       <description>&lt;p&gt;Faculty of Information Science &amp;amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.mosc.my/2016/03/mosc-my-venue-faculty-of-information.html&#34;&gt;http://www.mosc.my/2016/03/mosc-my-venue-faculty-of-information.html&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://www.ftsm.ukm.my/location.php&#34;&gt;http://www.ftsm.ukm.my/location.php&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;#moscmy&lt;/p&gt;
-
-&lt;!-- TODO download photos and internal linking --&gt;
 
 
 &lt;figure &gt;
@@ -78,10 +94,10 @@
     
     <item>
       <title>Schedule</title>
-      <link>https://fakhrullah.github.io/moscdotmy/schedule/</link>
+      <link>http://localhost:1313/moscdotmy/schedule/</link>
       <pubDate>Mon, 03 Apr 2017 19:45:13 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/schedule/</guid>
+      <guid>http://localhost:1313/moscdotmy/schedule/</guid>
       <description>&lt;p&gt;Schedule for Malaysia Open Source Conference (MOSC MY)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/&#34;&gt;http://lanyrd.com/2017/moscmy/&lt;/a&gt;&lt;/p&gt;
@@ -92,10 +108,10 @@
     
     <item>
       <title>MOSCMY Mission Statement</title>
-      <link>https://fakhrullah.github.io/moscdotmy/mission/</link>
+      <link>http://localhost:1313/moscdotmy/mission/</link>
       <pubDate>Mon, 03 Apr 2017 18:33:55 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/mission/</guid>
+      <guid>http://localhost:1313/moscdotmy/mission/</guid>
       <description>&lt;p&gt;The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software.&lt;/p&gt;
 
 &lt;p&gt;MOSCMY is run by volunteers. As days go by we are rapidly increase momentum. This is the largest &amp;ldquo;Teh Tarik Session&amp;rdquo; for open source community in Malaysia.&lt;/p&gt;
@@ -103,7 +119,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://fakhrullah.github.io/moscdotmy/images/moscmy2017-banner-depan.png&#34; alt=&#34;MOSCMY 2017&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/moscdotmy/images/moscmy2017-banner-depan.png&#34; alt=&#34;MOSCMY 2017&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -112,62 +128,316 @@
     </item>
     
     <item>
-      <title>Malaysia Open Source Conference 2017</title>
-      <link>https://fakhrullah.github.io/moscdotmy/malaysia-open-source-conference-2017/</link>
-      <pubDate>Sun, 12 Feb 2017 00:56:04 +0800</pubDate>
+      <title>Session 13 - GNU PSPP. A program for statistical analysis of sampled data</title>
+      <link>http://localhost:1313/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</link>
+      <pubDate>Sun, 02 Apr 2017 08:46:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/malaysia-open-source-conference-2017/</guid>
-      <description>
+      <guid>http://localhost:1313/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</guid>
+      <description>&lt;p&gt;Session 13 : GNU PSPP. A program for statistical analysis of sampled data&lt;/p&gt;
 
-&lt;h2 id=&#34;malaysia-open-source-conference-call-for-speakers-mosc-my-2017&#34;&gt;Malaysia Open Source Conference Call For Speakers - MOSC MY 2017&lt;/h2&gt;
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
 
-&lt;p&gt;Official Website &lt;a href=&#34;http://www.mosc.my&#34;&gt;http://www.mosc.my&lt;/a&gt;&lt;br /&gt;
-Call For Speakers form : &lt;a href=&#34;http://goo.gl/forms/BiWQIn2bD8&#34;&gt;http://goo.gl/forms/BiWQIn2bD8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[](&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqzkx/)[http://lanyrd.com/2017/moscmy/sfqzkx/](http://lanyrd.com/2017/moscmy/sfqzkx/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqzkx/)[http://lanyrd.com/2017/moscmy/sfqzkx/](http://lanyrd.com/2017/moscmy/sfqzkx/&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;Update schedule for MOSCMY 2017 &lt;a href=&#34;http://lanyrd.com/2017/moscmy/&#34;&gt;http://lanyrd.com/2017/moscmy/&lt;/a&gt;&lt;br /&gt;
-Participants registration : &lt;a href=&#34;https://moscmy2017.eventbrite.com&#34;&gt;https://moscmy2017.eventbrite.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Noraini Talib&lt;/p&gt;
 
-&lt;p&gt;Over the years, Malaysia Open Source Conference or MOSC MY have brought together thousands participants, of CEOs and leaders, vendors, consultants, associations and regulators from around Malaysia and the world to address mutual challenges and share information on Open Source Software.&lt;/p&gt;
+&lt;p&gt;Friday 19th May, 2017 11:30am to 12:15pm (SMT)&lt;/p&gt;
 
-&lt;p&gt;With &amp;ldquo;Open Source In Financial Services&amp;rdquo; as the theme for year 2017, we are addressing the main technology focus and trends for most consumers.&lt;/p&gt;
+&lt;p&gt;Session 13 : GNU PSPP. A program for statistical analysis of sampled data&lt;/p&gt;
 
-&lt;p&gt;MOSCMY 2017 is set to explore the Open Source software and technology at the Enterprise level, and to promote the development of local Open Source solution for Enterprise environment to be use worldwide.&lt;/p&gt;
+&lt;p&gt;PSPP is a stable and reliable application. It can perform descriptive statistics, T-tests, anova, linear and logistic regression, measures of association, cluster analysis, reliability and factor analysis, non-parametric tests and more. Its backend is designed to perform its analyses as fast as possible, regardless of the size of the input data. You can use PSPP with its graphical interface or the more traditional syntax commands. The best things are it&amp;rsquo;s Free, Opensource (GNU) and No license fees. No expiration period.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Date : 17-19 May 2017 (Wednesday Till Friday)
-Time : 9am till 5pm
-Venue : Faculty of Information Science &amp;amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Recommended to all researchers especially postgraduates who are looking for low cost software utilization.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/venues/22722938/vgdky/&#34;&gt;http://lanyrd.com/venues/22722938/vgdky/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.ftsm.ukm.my/location.php&#34;&gt;http://www.ftsm.ukm.my/location.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Speaker&lt;/p&gt;
+
+&lt;p&gt;Noraini Talib&lt;/p&gt;
+
+&lt;p&gt;Noraini is an IT executive at Pusat Teknologi Maklumat (PTM), UKM. She is now pursuing her Phd in programming education and have utilized PSPP while doing her research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop 11 - WEP / WPA / WPA2 ~! Dont&#39; waste your time to crack it - Exploiting 802.11 with OSS tools</title>
+      <link>http://localhost:1313/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</link>
+      <pubDate>Fri, 31 Mar 2017 20:04:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</guid>
+      <description>&lt;p&gt;Workshop 11 : WEP / WPA / WPA2 ~! Dont&amp;rsquo; waste your time to crack it - Exploiting 802.11 with OSS tools.&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmcx/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmcx/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Matnet&lt;/p&gt;
+
+&lt;p&gt;Friday 19th May, 2017 2:30pm to 4:30pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;Even though 802.11 is a matured technology, there are bunch of vulnerabilities on the 802.11 management frames that encourage many types of wireless attacks.&lt;/p&gt;
+
+&lt;p&gt;In this workshop we will share our experience of this following topics&lt;/p&gt;
+
+&lt;p&gt;1 - Introduction of 802.11&lt;/p&gt;
+
+&lt;p&gt;2 - Get to know Management Frames&lt;/p&gt;
+
+&lt;p&gt;3 - Problem Statement&lt;/p&gt;
+
+&lt;p&gt;4 - Exploiting The Frames&lt;/p&gt;
+
+&lt;p&gt;beacons&lt;br /&gt;
+probe respond&lt;br /&gt;
+deauth&lt;br /&gt;
+5 - The Tools&lt;/p&gt;
+
+&lt;p&gt;aircrack-ng&lt;br /&gt;
+wifiphisher&lt;br /&gt;
+mana-toolkit&lt;br /&gt;
+6 - Hands on&lt;/p&gt;
+
+&lt;p&gt;Beacons Flood&lt;br /&gt;
+Jamming the wifi&lt;br /&gt;
+evilAP&lt;br /&gt;
+Get your neighbour WPA2 password without cracking.&lt;br /&gt;
+7 - Protect of your Territories&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop 1 - Many Facets of Open Source Tools in System Administration Context</title>
+      <link>http://localhost:1313/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</link>
+      <pubDate>Fri, 31 Mar 2017 09:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</guid>
+      <description>&lt;p&gt;Workshop 1 : Many Facets of Open Source Tools in System Administration Context&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmby/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmby/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;System administration is a wide ranged area which caters infrastructure handling , log analysis, security aware practice and common sense. Open source based tools are possibly among the favorite choice due to the nature of the openness. My talk will cover from the basic to intermediate level use of the open source tools in the area of system administration which could possibly save our time in dealing with the routine task. For example the use of Ansible for the configuration management tool, tmux/screen use and git.  &lt;/p&gt;
+
+&lt;p&gt;Speaker&lt;/p&gt;
+
+&lt;p&gt;Muhammad Najmi bin Ahmad Zabidi&lt;/p&gt;
+
+&lt;p&gt;(Remote) Linux System Administrator at End Point Corporation, New York City&lt;/p&gt;
+
+&lt;p&gt;Holds Masters of Science in Computer Science from Universiti Sains Malaysia&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/najmizabidi/&#34;&gt;https://www.linkedin.com/in/najmizabidi/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call For Speakers Malaysia Open Source Conference 2017 (MOSCMY 2017)</title>
+      <link>http://localhost:1313/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</link>
+      <pubDate>Thu, 30 Mar 2017 22:18:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</guid>
+      <description>&lt;p&gt;Call For Speakers Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;Official Website &lt;a href=&#34;http://www.mosc.my/&#34;&gt;http://www.mosc.my&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Call For Speakers form : &lt;a href=&#34;http://goo.gl/forms/BiWQIn2bD8&#34;&gt;http://goo.gl/forms/BiWQIn2bD8&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Update schedule for MOSCMY 2017 &lt;a href=&#34;http://lanyrd.com/2017/moscmy/&#34;&gt;http://lanyrd.com/2017/moscmy/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Participants registration : &lt;a href=&#34;https://moscmy2017.eventbrite.com/&#34;&gt;https://moscmy2017.eventbrite.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Call for speakers is open to all individual, organization, universities, companies and government agencies who is to present on the case study, development, implementation or applications. The presentation paper or slide must be in knowledge sharing concept. The presentation paper or slide must not contain marketing materials to promote certain product or company.&lt;/p&gt;
 
-&lt;p&gt;Please do note that the closing date for Call for speakers is on 17 April 2017 and the selected paper will be informed after selection process is completed by the secretariat by 24 April 2016. Only selected speakers will be inform by the secretariat.&lt;/p&gt;
+&lt;p&gt;With &amp;ldquo;Open Source In Financial Services&amp;rdquo; as the theme for MOSCMY year 2017, we are addressing the main technology focus and trends for most consumers.&lt;/p&gt;
 
-&lt;p&gt;For selected speakers you have to submit your presentation slide before May 10, 2017. by email to secretariat@mosc.my&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Area of Interests for Business segment :-&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The speakers need to agree, all slides will be publish as Copyright : &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Open Source In Financial Services&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;CC BY-SA 4.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Area of Interests for academic and community segment :-&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;ldquo;This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Technical topic can be :-&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Prospective speakers are invited to submit an abstract in 100 - 200 words by using this online form below.&lt;/p&gt;
+&lt;p&gt;BlockChain Open Source&lt;br /&gt;
+Internet Of Thing&lt;br /&gt;
+Open Hardware For Data Center&lt;br /&gt;
+Container in Data Center&lt;br /&gt;
+Making sense of Big Data using Analytics&lt;br /&gt;
+Microcontrollers, Arduino &amp;amp; Raspberry Pi&lt;br /&gt;
+Web Programming Language&lt;br /&gt;
+Mobile Application Programming&lt;br /&gt;
+Web Application Security&lt;br /&gt;
+Information Security&lt;br /&gt;
+GIS &amp;amp; Software Mapping&lt;br /&gt;
+Machine learning&lt;br /&gt;
+Monitoring &amp;amp; Alert System&lt;br /&gt;
+NoSQL &amp;amp; RDBMS&lt;br /&gt;
+Learning Management System (LMS)&lt;/p&gt;
 
-&lt;p&gt;Call For Speakers form : &lt;a href=&#34;http://goo.gl/forms/BiWQIn2bD8&#34;&gt;http://goo.gl/forms/BiWQIn2bD8&lt;/a&gt;&lt;br /&gt;
-or email to secretariat@mosc.my and email CC to moscmy@gmail.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Non technical can be :-&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Harisfazillah Jamel&lt;br /&gt;
-linuxmalaysia@gmail.com&lt;br /&gt;
-&lt;a href=&#34;http://blog.harisfazillah.info/&#34;&gt;http://blog.harisfazillah.info/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://lanyrd.com/profile/linuxmalaysia/&#34;&gt;http://lanyrd.com/profile/linuxmalaysia/&lt;/a&gt;&lt;br /&gt;
-Telegram +60196085482&lt;/p&gt;
+&lt;p&gt;Online community related to Open Source&lt;br /&gt;
+Open Source related Policy&lt;br /&gt;
+Case Study related to Open Source Implementation&lt;br /&gt;
+Advocacy program for Open Source&lt;br /&gt;
+Patent and Trade Agreement impacting Open Source&lt;br /&gt;
+Open Source License in Enterprise Environment&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;FYI, this event is run by volunteers. As days go by we are rapidly increase momentum. This is the largest &amp;ldquo;Teh Tarik Session&amp;rdquo; for open source community in Malaysia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scribd.com/document/339092098/Malaysia-Open-Source-Conference-Call-for-Speakers-MOSC-MY-2017#from_embed&#34; title=&#34;View Malaysia Open Source Conference Call for Speakers - MOSC MY 2017 on Scribd&#34;&gt;Malaysia Open Source Conference Call for Speakers - MOSC MY 2017&lt;/a&gt; by &lt;a href=&#34;https://www.scribd.com/user/4820657/LinuxMalaysia-Malaysia#from_embed&#34; title=&#34;View LinuxMalaysia Malaysia&#39;s profile on Scribd&#34;&gt;LinuxMalaysia Malaysia&lt;/a&gt; on Scribd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 10 - Online Accessibility Mapping Project MOSCMY2017</title>
+      <link>http://localhost:1313/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</link>
+      <pubDate>Thu, 30 Mar 2017 21:29:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</guid>
+      <description>&lt;p&gt;Session 10 : Online Accessibility Mapping Project&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmbw/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmbw/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Challenges Foundation will run a project to make cycling accessible for children and persons with disabilities. The Challenges Tandem Cycle 4 Change Project will be launched in 2017 with a  National Recycle Bicycle campaign to collect used and abandoned bicycles in the community to be recycled into our tandem bicycles.&lt;/p&gt;
+
+&lt;p&gt;One activity of this project involves street mapping for location of abandoned bicycles as well as donated bicycles from public. We hope to use OpenStreetMap,  for this project to get public to pin the location of these bicycles and we can then send volunteers to collect them when we see a cluster of pins.&lt;/p&gt;
+
+&lt;p&gt;The other use of the street mapping will be to map accessible cycling spots that are also safe for us to organise cycling trips for youth and children with disabilities. I hope to start this project in April and hopefully by May we would be able to report some success or progress. If not , I see the presentation as an opportunity to initiate a Call for Action to delegates at this conference to help us move this project forward&lt;/p&gt;
+
+&lt;p&gt;Speaker&lt;/p&gt;
+
+&lt;p&gt;Mary Chen has been a disability advocate for 30 years. She is the Chairperson of Challenges Foundation, a nonprofit and non government Organisation to promote disability advocacy and inclusive community development.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://challengesmedia.com/about-us/&#34;&gt;http://challengesmedia.com/about-us/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ChallengesFoundationMY/&#34;&gt;https://www.facebook.com/ChallengesFoundationMY/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</title>
+      <link>http://localhost:1313/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</link>
+      <pubDate>Wed, 29 Mar 2017 10:48:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</guid>
+      <description>&lt;p&gt;Session 11 : Security Realism in Education&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmcp/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmcp/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tajul Azhar bin Mohd Tajul Ariffin&lt;/p&gt;
+
+&lt;p&gt;Friday 19th May, 2017 11:30am to 12:30pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;Playground in Cyber Security are the most crucial thing that must be prepared in higher education. Investment can be made but knowledge must be delivered accordingly to the future leader. The lack of technology and the right competency is a challenge whereby knowledge must concurently works in reality to what the industry needs. Are we in the same shoe?&lt;/p&gt;
+
+&lt;p&gt;Speakers&lt;/p&gt;
+
+&lt;p&gt;Tajul Azhar bin Mohd Tajul Ariffin &amp;amp; Syearifah Shahidan&lt;/p&gt;
+
+&lt;p&gt;We have been lecturing for almost 2 years after spending 13 years in government agencies as a IT officer. Passion is a key for success. Major in Cyber Security and Information Security, we are partner-in-crime who are developing the future Cyber Warrior in higher education&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[MOSCMY 2017] Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
+</title>
+      <link>http://localhost:1313/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</link>
+      <pubDate>Wed, 29 Mar 2017 06:48:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</guid>
+      <description>&lt;p&gt;Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmcb/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmcb/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;This workshop shall demonstrate how SDN is utilised to deploy the openflow patch panel as well as the testing of the network. The development of this tool has been made entirely using open source software.&lt;/p&gt;
+
+&lt;p&gt;Speaker&lt;/p&gt;
+
+&lt;p&gt;Fuead Ali, Megat Norulazmi&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 12 - The FreeBSD - Prime -  Malaysia Open Source Conference MOSCMY 2017</title>
+      <link>http://localhost:1313/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</link>
+      <pubDate>Tue, 28 Mar 2017 16:30:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</guid>
+      <description>&lt;p&gt;Session 12 : The FreeBSD - Prime&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmcq/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmcq/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday 19th May, 2017 11:30am to 12:30pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;Session 12 : The FreeBSD - Prime&lt;/p&gt;
+
+&lt;p&gt;As a developer, Sysadmin and sometimes a day to day user we come up with the words Linux and Unix. Unfortunately, although we will find a handful of Open Source Linux OS it is hard to find a true UNIX derivative in the Open Source arena. Till today the only fully open source UNIX derivative remaining is the *BSD or Berkley System Development.&lt;/p&gt;
+
+&lt;p&gt;It highly differs in structure, stability and philosophy compared to another Linux OS. This presentation briefly tries to explain about the history of BSD systems, structure, features and usage in our day to day life. Additionally, although starting with generic BSD family we will more likely be emphasizing on The FreeBSD Project.&lt;/p&gt;
+
+&lt;p&gt;Speakers :&lt;/p&gt;
+
+&lt;p&gt;Martin Wilke&lt;/p&gt;
+
+&lt;p&gt;Muhammd Moinur Rahman&lt;/p&gt;
+
+&lt;p&gt;Malaysia Open Source Conference MOSCMY 2017 &lt;a href=&#34;http://www.mosc.my/&#34;&gt;http://www.mosc.my&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Call For Speakers form : &lt;a href=&#34;http://goo.gl/forms/BiWQIn2bD8&#34;&gt;http://goo.gl/forms/BiWQIn2bD8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Call For Speakers Malaysia Open Source Conference 2017 &lt;a href=&#34;https://goo.gl/0J5QJN&#34;&gt;https://goo.gl/0J5QJN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;MOSCMY 2017 Ticket2U Online Ticket : &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017&#34;&gt;https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Date : 17-19 May 2017 (Wednesday Till Friday)&lt;/p&gt;
+
+&lt;p&gt;Time : 9am till 5pm&lt;/p&gt;
+
+&lt;p&gt;Venue : Faculty of Information Science &amp;amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 9 - To R or not to R - Experience from Using R in a Medical School (MOSCMY2017)</title>
+      <link>http://localhost:1313/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</link>
+      <pubDate>Mon, 27 Mar 2017 20:59:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</guid>
+      <description>&lt;p&gt;Session 9 : To R or not to R: Experience from Using R in a Medical School&lt;/p&gt;
+
+&lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
+
+&lt;p&gt;Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmbt/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmbt/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue : Faculty of Information Science &amp;amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mosc.my/&#34;&gt;http://www.mosc.my&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;R is a freely available language and environment for statistical computing and graphics. It has over 10200 packages to cater for the needs of statisticians, data scientists, epidemiologists, ecologists, econometricians and many more people.&lt;/p&gt;
+
+&lt;p&gt;At the School of Medical Sciences, Universiti Sains Malaysia, we informally introduced R in late 2013 and formally integrated R into our academic syllabus in 2015. We use RStudio as the IDE for R though Revolution R is another popular IDE. In the statistic class, we teach students to read data, perform statistical analysis and produce reports in R.&lt;/p&gt;
+
+&lt;p&gt;Using R makes learning more exciting and using R-markdown helps students produce nice reports. Our experience shows R requires steeper learning curve but the challenge and the versatility of R make the students more engaged and the learning more effective. We feel that academicians should promote the use of R in their classes.&lt;/p&gt;
+
+&lt;p&gt;Speaker :-&lt;/p&gt;
+
+&lt;p&gt;Prof. Madya Dr. Kamarul Imran Musa&lt;/p&gt;
 </description>
     </item>
     

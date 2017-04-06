@@ -2,38 +2,240 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/registration/</loc>
+    <loc>http://localhost:1313/moscdotmy/registration/</loc>
     <lastmod>2017-04-03T19:53:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/contact-us/</loc>
+    <loc>http://localhost:1313/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</loc>
+    <lastmod>2017-04-03T11:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/contact-us/</loc>
     <lastmod>2017-04-03T19:45:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/venue/</loc>
+    <loc>http://localhost:1313/moscdotmy/venue/</loc>
     <lastmod>2017-04-03T19:45:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/schedule/</loc>
+    <loc>http://localhost:1313/moscdotmy/schedule/</loc>
     <lastmod>2017-04-03T19:45:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/mission/</loc>
+    <loc>http://localhost:1313/moscdotmy/mission/</loc>
     <lastmod>2017-04-03T18:33:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/malaysia-open-source-conference-2017/</loc>
+    <loc>http://localhost:1313/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</loc>
+    <lastmod>2017-04-02T08:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</loc>
+    <lastmod>2017-03-31T20:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</loc>
+    <lastmod>2017-03-31T09:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</loc>
+    <lastmod>2017-03-30T22:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</loc>
+    <lastmod>2017-03-30T21:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</loc>
+    <lastmod>2017-03-29T10:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</loc>
+    <lastmod>2017-03-29T06:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</loc>
+    <lastmod>2017-03-28T16:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</loc>
+    <lastmod>2017-03-27T20:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/lightning-talk-during-moscmy-2017/</loc>
+    <lastmod>2017-03-26T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/workshop-2--wheres-my-pcap-malaysia-open-source-conference-2017/</loc>
+    <lastmod>2017-03-25T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/moscmy-2017-session-4--your-open-source-smart-home/</loc>
+    <lastmod>2017-03-25T07:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/want-to-be-a-speaker-for-malaysia-open-source-conference-2017/</loc>
+    <lastmod>2017-03-20T13:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/twitter-from-eventbrite-to-be-share-in-twitter-tweet/</loc>
+    <lastmod>2017-03-20T13:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/join-us-for-moscmy2017-malaysia-open-source-conference-17-19-may-2017/</loc>
+    <lastmod>2017-02-18T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/participants-registration-for-malaysia-open-source-conference-mosc-my-2017-is-now-open/</loc>
+    <lastmod>2017-02-13T15:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/mosc-my-objective/</loc>
+    <lastmod>2017-02-13T15:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/target-audience-mosc-my/</loc>
+    <lastmod>2017-02-13T15:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/mosc-my-mission/</loc>
+    <lastmod>2017-02-13T15:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/conference-structure-mosc-my/</loc>
+    <lastmod>2017-02-13T15:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/malaysia-open-source-conference-2017-moscmy-2017/</loc>
+    <lastmod>2017-02-12T16:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/malaysia-open-source-conference-2017/</loc>
     <lastmod>2017-02-12T00:56:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/</loc>
+    <loc>http://localhost:1313/moscdotmy/registration-for-mosc-my-2016-is-now-open/</loc>
+    <lastmod>2016-04-09T07:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/call-for-speakers-malaysia-open-source-conference-2016-mosc-my/</loc>
+    <lastmod>2016-03-20T09:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/malaysia-open-source-conference-2016-mosc-my/</loc>
+    <lastmod>2016-03-20T09:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/audience/</loc>
+    <lastmod>2017-02-13T15:33:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/conference/</loc>
+    <lastmod>2017-02-18T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/date/</loc>
+    <lastmod>2016-03-20T09:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/</loc>
     <lastmod>2017-04-03T19:53:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/mission/</loc>
+    <lastmod>2017-02-13T15:27:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/moscmy/</loc>
+    <lastmod>2017-02-12T16:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/objective/</loc>
+    <lastmod>2017-02-13T15:33:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/participants/</loc>
+    <lastmod>2017-04-03T11:47:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/registration/</loc>
+    <lastmod>2017-03-20T13:48:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/speakers/</loc>
+    <lastmod>2017-04-02T08:46:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/structure/</loc>
+    <lastmod>2017-02-13T15:23:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/venue/</loc>
+    <lastmod>2016-03-20T09:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moscdotmy/tags/video/</loc>
+    <lastmod>2017-02-18T09:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
