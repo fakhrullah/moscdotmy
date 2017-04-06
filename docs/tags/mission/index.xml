@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mission on Malaysia Open Source Conference MOSC.my</title>
-    <link>http://localhost:1313/moscdotmy/tags/mission/index.xml</link>
+    <link>https://fakhrullah.github.io/moscdotmy/tags/mission/index.xml</link>
     <description>Recent content in Mission on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/moscdotmy/tags/mission/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fakhrullah.github.io/moscdotmy/tags/mission/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MOSC MY Mission</title>
-      <link>http://localhost:1313/moscdotmy/mosc-my-mission/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/mosc-my-mission/</link>
       <pubDate>Mon, 13 Feb 2017 15:27:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/mosc-my-mission/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/mosc-my-mission/</guid>
       <description>&lt;p&gt;The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software.&lt;/p&gt;
 
 &lt;p&gt;MOSCMY is run by volunteers. As days go by we are rapidly increase momentum. This is the largest &amp;ldquo;&lt;strong&gt;Teh Tarik Session&lt;/strong&gt;&amp;rdquo; for open source community in Malaysia.&lt;/p&gt;

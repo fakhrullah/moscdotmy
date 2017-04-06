@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malaysia Open Source Conference MOSC.my</title>
-    <link>http://localhost:1313/moscdotmy/index.xml</link>
+    <link>https://fakhrullah.github.io/moscdotmy/index.xml</link>
     <description>Recent content on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Apr 2017 19:53:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/moscdotmy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fakhrullah.github.io/moscdotmy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>registration</title>
-      <link>http://localhost:1313/moscdotmy/registration/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/registration/</link>
       <pubDate>Mon, 03 Apr 2017 19:53:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/registration/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/registration/</guid>
       <description>&lt;p&gt;Interested ?&lt;/p&gt;
 
 &lt;p&gt;Registration for Malaysia Open Source Conference MOSC MY 2017 is now open.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Pendaftaran untuk Malaysia Open Source Conference kini dibuka MOSCMY 2017</title>
-      <link>http://localhost:1313/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</link>
       <pubDate>Mon, 03 Apr 2017 11:47:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/pendaftaran-untuk-malaysia-open-source-conference-kini-dibuka-moscmy-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017&#34;&gt;https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Jadual terkini&lt;/p&gt;
@@ -43,19 +43,19 @@
     
     <item>
       <title>contact us</title>
-      <link>http://localhost:1313/moscdotmy/contact-us/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/contact-us/</link>
       <pubDate>Mon, 03 Apr 2017 19:45:28 +0800</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/contact-us/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/contact-us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Venue</title>
-      <link>http://localhost:1313/moscdotmy/venue/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/venue/</link>
       <pubDate>Mon, 03 Apr 2017 19:45:22 +0800</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/venue/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/venue/</guid>
       <description>&lt;p&gt;Faculty of Information Science &amp;amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.mosc.my/2016/03/mosc-my-venue-faculty-of-information.html&#34;&gt;http://www.mosc.my/2016/03/mosc-my-venue-faculty-of-information.html&lt;/a&gt;&lt;br /&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Schedule</title>
-      <link>http://localhost:1313/moscdotmy/schedule/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/schedule/</link>
       <pubDate>Mon, 03 Apr 2017 19:45:13 +0800</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/schedule/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/schedule/</guid>
       <description>&lt;p&gt;Schedule for Malaysia Open Source Conference (MOSC MY)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/&#34;&gt;http://lanyrd.com/2017/moscmy/&lt;/a&gt;&lt;/p&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>MOSCMY Mission Statement</title>
-      <link>http://localhost:1313/moscdotmy/mission/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/mission/</link>
       <pubDate>Mon, 03 Apr 2017 18:33:55 +0800</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/mission/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/mission/</guid>
       <description>&lt;p&gt;The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software.&lt;/p&gt;
 
 &lt;p&gt;MOSCMY is run by volunteers. As days go by we are rapidly increase momentum. This is the largest &amp;ldquo;Teh Tarik Session&amp;rdquo; for open source community in Malaysia.&lt;/p&gt;
@@ -119,7 +119,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/moscdotmy/images/moscmy2017-banner-depan.png&#34; alt=&#34;MOSCMY 2017&#34; /&gt;
+        &lt;img src=&#34;https://fakhrullah.github.io/moscdotmy/images/moscmy2017-banner-depan.png&#34; alt=&#34;MOSCMY 2017&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -129,10 +129,10 @@
     
     <item>
       <title>Session 13 - GNU PSPP. A program for statistical analysis of sampled data</title>
-      <link>http://localhost:1313/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</link>
       <pubDate>Sun, 02 Apr 2017 08:46:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</guid>
       <description>&lt;p&gt;Session 13 : GNU PSPP. A program for statistical analysis of sampled data&lt;/p&gt;
 
 &lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
@@ -159,10 +159,10 @@
     
     <item>
       <title>Workshop 11 - WEP / WPA / WPA2 ~! Dont&#39; waste your time to crack it - Exploiting 802.11 with OSS tools</title>
-      <link>http://localhost:1313/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</link>
       <pubDate>Fri, 31 Mar 2017 20:04:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/workshop-11--wep--wpa--wpa2--dont-waste-your-time-to-crack-it---exploiting-80211-with-oss-tools/</guid>
       <description>&lt;p&gt;Workshop 11 : WEP / WPA / WPA2 ~! Dont&amp;rsquo; waste your time to crack it - Exploiting 802.11 with OSS tools.&lt;/p&gt;
 
 &lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
@@ -205,10 +205,10 @@ Get your neighbour WPA2 password without cracking.&lt;br /&gt;
     
     <item>
       <title>Workshop 1 - Many Facets of Open Source Tools in System Administration Context</title>
-      <link>http://localhost:1313/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</link>
       <pubDate>Fri, 31 Mar 2017 09:07:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</guid>
       <description>&lt;p&gt;Workshop 1 : Many Facets of Open Source Tools in System Administration Context&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmby/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmby/&lt;/a&gt;&lt;/p&gt;
@@ -233,10 +233,10 @@ Get your neighbour WPA2 password without cracking.&lt;br /&gt;
     
     <item>
       <title>Call For Speakers Malaysia Open Source Conference 2017 (MOSCMY 2017)</title>
-      <link>http://localhost:1313/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</link>
       <pubDate>Thu, 30 Mar 2017 22:18:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/call-for-speakers-malaysia-open-source-conference-2017-moscmy-2017/</guid>
       <description>&lt;p&gt;Call For Speakers Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
 
 &lt;p&gt;Official Website &lt;a href=&#34;http://www.mosc.my/&#34;&gt;http://www.mosc.my&lt;/a&gt;&lt;/p&gt;
@@ -290,10 +290,10 @@ Open Source License in Enterprise Environment&lt;/p&gt;
     
     <item>
       <title>Session 10 - Online Accessibility Mapping Project MOSCMY2017</title>
-      <link>http://localhost:1313/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</link>
       <pubDate>Thu, 30 Mar 2017 21:29:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</guid>
       <description>&lt;p&gt;Session 10 : Online Accessibility Mapping Project&lt;/p&gt;
 
 &lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
@@ -320,10 +320,10 @@ Open Source License in Enterprise Environment&lt;/p&gt;
     
     <item>
       <title>Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</title>
-      <link>http://localhost:1313/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</link>
       <pubDate>Wed, 29 Mar 2017 10:48:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</guid>
       <description>&lt;p&gt;Session 11 : Security Realism in Education&lt;/p&gt;
 
 &lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
@@ -347,10 +347,10 @@ Open Source License in Enterprise Environment&lt;/p&gt;
     <item>
       <title>[MOSCMY 2017] Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
 </title>
-      <link>http://localhost:1313/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</link>
       <pubDate>Wed, 29 Mar 2017 06:48:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</guid>
       <description>&lt;p&gt;Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://lanyrd.com/2017/moscmy/sfqmcb/&#34;&gt;http://lanyrd.com/2017/moscmy/sfqmcb/&lt;/a&gt;&lt;/p&gt;
@@ -369,10 +369,10 @@ Open Source License in Enterprise Environment&lt;/p&gt;
     
     <item>
       <title>Session 12 - The FreeBSD - Prime -  Malaysia Open Source Conference MOSCMY 2017</title>
-      <link>http://localhost:1313/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</link>
       <pubDate>Tue, 28 Mar 2017 16:30:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</guid>
       <description>&lt;p&gt;Session 12 : The FreeBSD - Prime&lt;/p&gt;
 
 &lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
@@ -413,10 +413,10 @@ Open Source License in Enterprise Environment&lt;/p&gt;
     
     <item>
       <title>Session 9 - To R or not to R - Experience from Using R in a Medical School (MOSCMY2017)</title>
-      <link>http://localhost:1313/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</link>
       <pubDate>Mon, 27 Mar 2017 20:59:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</guid>
       <description>&lt;p&gt;Session 9 : To R or not to R: Experience from Using R in a Medical School&lt;/p&gt;
 
 &lt;p&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/p&gt;
