@@ -4,7 +4,6 @@ title: Malaysia Open Source Conference 2017
 
 ---
 
-
 ## Malaysia Open Source Conference Call For Speakers - MOSC MY 2017
 
 Official Website http://www.mosc.my  
