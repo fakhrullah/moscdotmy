@@ -1,0 +1,22 @@
+{
+  "name": "moscdotmy",
+  "version": "1.0.0",
+  "description": "## Why?",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakhrullah/moscdotmy.git"
+  },
+  "author": "Fakhrullah <fakhrullah@fajarhac.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakhrullah/moscdotmy/issues"
+  },
+  "homepage": "https://github.com/fakhrullah/moscdotmy#readme"
+}
