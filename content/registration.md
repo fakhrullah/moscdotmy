@@ -1,6 +1,6 @@
 ---
 date: 2017-04-03T19:53:07+08:00
-description: ""
+description: "Registration link for MOSC.my"
 title: Registration
 ---
 
