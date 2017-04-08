@@ -45,6 +45,10 @@ menu:
     -
       name: MOSCMY Mission
       url: /mission
+      
+    -
+      name: MOSCMY 2016
+      url: /mosc-my-2016
 
     -
       name: Contact Us
@@ -58,7 +62,7 @@ params:
   # Sidebar description
   description: >
     The largest "Teh Tarik Session" for open source community in Malaysia
-    
+
   themeOptions:
     sidebar:
       position: left
