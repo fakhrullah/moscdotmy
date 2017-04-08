@@ -3,7 +3,7 @@ languageCode: en-us
 title: Malaysia Open Source Conference MOSC.my
 metaDataFormat: yaml
 
-publishDir: docs
+publishDir: public
 canonifyURLs: true
 
 theme: musang
