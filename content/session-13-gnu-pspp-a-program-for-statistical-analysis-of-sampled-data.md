@@ -1,14 +1,12 @@
 ---
+date: 2017-04-03T19:45:13+58:00
 title: Session 13 - GNU PSPP. A program for statistical analysis of sampled data
-date: 2017-04-02 08:46:00
 tags: [Speakers]
 ---
 
 <div style="text-align: justify;">Session 13 : GNU PSPP. A program for statistical analysis of sampled data</div>
 
 <div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
-
-<div style="text-align: justify;">[](http://lanyrd.com/2017/moscmy/sfqzkx/)[http://lanyrd.com/2017/moscmy/sfqzkx/](http://lanyrd.com/2017/moscmy/sfqzkx/)</div>
 
 <div style="text-align: justify;">Noraini Talib</div>
 

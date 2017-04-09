@@ -1,5 +1,5 @@
 ---
-title: Session 9 - To R or not to R - Experience from Using R in a Medical School (MOSCMY2017)
+title: Session 9 - To R or not to R - Experience from Using R in a Medical School
 date: 2017-03-27 20:59:00
 tags: [Speakers]
 ---
@@ -9,8 +9,6 @@ tags: [Speakers]
 <div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
 
 <div style="text-align: justify;">Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)</div>
-
-<div style="text-align: justify;">[http://lanyrd.com/2017/moscmy/sfqmbt/](http://lanyrd.com/2017/moscmy/sfqmbt/)</div>
 
 <div style="text-align: justify;">Venue : Faculty of Information Science & Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.</div>
 
