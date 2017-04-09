@@ -4,36 +4,36 @@ date: 2017-03-25 09:00:00
 tags: [Speakers]
 ---
 
-<div style="text-align: justify;">Workshop 2 : Where's my PCAP? Malaysia Open Source Conference 2017</div>
+Workshop 2 : Where's my PCAP? Malaysia Open Source Conference 2017
 
-<div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
+A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)
 
-<div style="text-align: justify;">Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)</div>
+Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)
 
-<div style="text-align: justify;">Stop what you are doing right now! Stop looking into wrong packets! You can't effectively manage, troubleshoot, and secure your enviroment if you don't know what's it's doing at a fundamental level. This is the missing manual for each IT department skillset.Unleash the power of open source tools such as tcpdump, tshark, or wireshark to make your life easier and of course, cost effective.</div>
+Stop what you are doing right now! Stop looking into wrong packets! You can't effectively manage, troubleshoot, and secure your enviroment if you don't know what's it's doing at a fundamental level. This is the missing manual for each IT department skillset.Unleash the power of open source tools such as tcpdump, tshark, or wireshark to make your life easier and of course, cost effective.
 
-<div style="text-align: justify;">Bring laptop with Wireshark v2.0 preinstalled.</div>
+Bring laptop with Wireshark v2.0 preinstalled.
 
-<div style="text-align: justify;">By : Ahmad Maher Bin Che Mohd Adib</div>
+By : Ahmad Maher Bin Che Mohd Adib
 
-<div style="text-align: justify;">The presenter will share his experience (the good, the bad and the ugly) and his journey for the past 15 years in dealing with packets and how he tackled and solved most of the common issues that most network security and application engineer faced today.</div>
+The presenter will share his experience (the good, the bad and the ugly) and his journey for the past 15 years in dealing with packets and how he tackled and solved most of the common issues that most network security and application engineer faced today.
 
-<div style="text-align: justify;">Malaysia Open Source Conference MOSCMY 2017 [http://www.mosc.my](http://www.mosc.my/)</div>
+Malaysia Open Source Conference MOSCMY 2017 [http://www.mosc.my](http://www.mosc.my/)
 
-<div style="text-align: justify;">Call For Speakers form : [http://goo.gl/forms/BiWQIn2bD8](http://goo.gl/forms/BiWQIn2bD8)</div>
+Call For Speakers form : [http://goo.gl/forms/BiWQIn2bD8](http://goo.gl/forms/BiWQIn2bD8)
 
-<div style="text-align: justify;">Call For Speakers Malaysia Open Source Conference 2017 [https://goo.gl/0J5QJN](https://goo.gl/0J5QJN)</div>
+Call For Speakers Malaysia Open Source Conference 2017 [https://goo.gl/0J5QJN](https://goo.gl/0J5QJN)
 
-<div style="text-align: justify;">MOSCMY 2017 Ticket2U Online Ticket :</div>
+MOSCMY 2017 Ticket2U Online Ticket :
 
-<div style="text-align: justify;">[https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017](https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017)</div>
+[https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017](https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017)
 
-<div style="text-align: justify;">Date : 17-19 May 2017 (Wednesday Till Friday)</div>
+Date : 17-19 May 2017 (Wednesday Till Friday)
 
-<div style="text-align: justify;">Time : 9am till 5pm</div>
+Time : 9am till 5pm
 
-<div style="text-align: justify;">Venue : Faculty of Information Science & Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.</div>
+Venue : Faculty of Information Science & Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.
 
-<div style="text-align: justify;">Facebook event page</div>
+Facebook event page
 
-<div style="text-align: justify;">[https://www.facebook.com/events/235616890240450/](https://www.facebook.com/events/235616890240450/)</div>
+[https://www.facebook.com/events/235616890240450/](https://www.facebook.com/events/235616890240450/)

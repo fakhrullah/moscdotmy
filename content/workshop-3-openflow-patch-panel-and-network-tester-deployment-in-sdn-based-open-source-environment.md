@@ -5,14 +5,14 @@ date: 2017-03-29 06:48:00
 tags: [Speakers]
 ---
 
-<div style="text-align: justify;">Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment</div>
+Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
 
-<div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
+A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)
 
-<div style="text-align: justify;">Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)</div>
+Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)
 
-<div style="text-align: justify;">This workshop shall demonstrate how SDN is utilised to deploy the openflow patch panel as well as the testing of the network. The development of this tool has been made entirely using open source software.</div>
+This workshop shall demonstrate how SDN is utilised to deploy the openflow patch panel as well as the testing of the network. The development of this tool has been made entirely using open source software.
 
-<div style="text-align: justify;">Speaker</div>
+Speaker
 
-<div style="text-align: justify;">Fuead Ali, Megat Norulazmi</div>
+Fuead Ali, Megat Norulazmi
