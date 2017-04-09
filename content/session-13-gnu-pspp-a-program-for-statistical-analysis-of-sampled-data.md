@@ -4,22 +4,22 @@ title: Session 13 - GNU PSPP. A program for statistical analysis of sampled data
 tags: [Speakers]
 ---
 
-<div style="text-align: justify;">Session 13 : GNU PSPP. A program for statistical analysis of sampled data</div>
+Session 13 : GNU PSPP. A program for statistical analysis of sampled data
 
-<div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
+A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)
 
-<div style="text-align: justify;">Noraini Talib</div>
+Noraini Talib
 
-<div style="text-align: justify;">Friday 19th May, 2017 11:30am to 12:15pm (SMT)</div>
+Friday 19th May, 2017 11:30am to 12:15pm (SMT)
 
-<div style="text-align: justify;">Session 13 : GNU PSPP. A program for statistical analysis of sampled data</div>
+Session 13 : GNU PSPP. A program for statistical analysis of sampled data
 
-<div style="text-align: justify;">PSPP is a stable and reliable application. It can perform descriptive statistics, T-tests, anova, linear and logistic regression, measures of association, cluster analysis, reliability and factor analysis, non-parametric tests and more. Its backend is designed to perform its analyses as fast as possible, regardless of the size of the input data. You can use PSPP with its graphical interface or the more traditional syntax commands. The best things are it's Free, Opensource (GNU) and No license fees. No expiration period.</div>
+PSPP is a stable and reliable application. It can perform descriptive statistics, T-tests, anova, linear and logistic regression, measures of association, cluster analysis, reliability and factor analysis, non-parametric tests and more. Its backend is designed to perform its analyses as fast as possible, regardless of the size of the input data. You can use PSPP with its graphical interface or the more traditional syntax commands. The best things are it's Free, Opensource (GNU) and No license fees. No expiration period.
 
-<div style="text-align: justify;">Recommended to all researchers especially postgraduates who are looking for low cost software utilization.</div>
+Recommended to all researchers especially postgraduates who are looking for low cost software utilization.
 
-<div style="text-align: justify;">Speaker</div>
+Speaker
 
-<div style="text-align: justify;">Noraini Talib</div>
+Noraini Talib
 
-<div style="text-align: justify;">Noraini is an IT executive at Pusat Teknologi Maklumat (PTM), UKM. She is now pursuing her Phd in programming education and have utilized PSPP while doing her research.</div>
+Noraini is an IT executive at Pusat Teknologi Maklumat (PTM), UKM. She is now pursuing her Phd in programming education and have utilized PSPP while doing her research.
