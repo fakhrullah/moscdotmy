@@ -1,6 +1,6 @@
 ---
-title: Session 12 - The FreeBSD - Prime -  Malaysia Open Source Conference MOSCMY 2017
-date: 2017-03-28 16:30:00
+date: 2017-04-03T19:45:13+48:00
+title: Session 12 - The FreeBSD - Prime - Malaysia Open Source Conference
 tags: [Speakers]
 ---
 

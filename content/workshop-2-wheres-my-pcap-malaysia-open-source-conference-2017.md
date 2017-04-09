@@ -6,8 +6,6 @@ tags: [Speakers]
 
 <div style="text-align: justify;">Workshop 2 : Where's my PCAP? Malaysia Open Source Conference 2017</div>
 
-<div style="text-align: justify;">[http://lanyrd.com/2017/moscmy/sfqmbz/](http://lanyrd.com/2017/moscmy/sfqmbz/)</div>
-
 <div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
 
 <div style="text-align: justify;">Thursday 18th May, 2017 2:00pm to 4:00pm (SMT)</div>

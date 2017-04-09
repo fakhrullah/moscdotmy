@@ -1,6 +1,6 @@
 ---
-title: Session 10 - Online Accessibility Mapping Project MOSCMY2017
-date: 2017-03-30 21:29:00
+date: 2017-04-03T19:45:13+28:00
+title: Session 10 - Online Accessibility Mapping Project
 tags: [Speakers]
 ---
 
@@ -8,13 +8,9 @@ tags: [Speakers]
 
 <div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
 
-<div style="text-align: justify;">
 
 <div>Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)</div>
 
-</div>
-
-<div style="text-align: justify;">[http://lanyrd.com/2017/moscmy/sfqmbw/](http://lanyrd.com/2017/moscmy/sfqmbw/)</div>
 
 <div style="text-align: justify;">Challenges Foundation will run a project to make cycling accessible for children and persons with disabilities. The Challenges Tandem Cycle 4 Change Project will be launched in 2017 with a  National Recycle Bicycle campaign to collect used and abandoned bicycles in the community to be recycled into our tandem bicycles.</div>
 
@@ -26,6 +22,5 @@ tags: [Speakers]
 
 <div style="text-align: justify;">Mary Chen has been a disability advocate for 30 years. She is the Chairperson of Challenges Foundation, a nonprofit and non government Organisation to promote disability advocacy and inclusive community development.</div>
 
-<div style="text-align: justify;">[http://challengesmedia.com/about-us/](http://challengesmedia.com/about-us/)</div>
-
-<div style="text-align: justify;">[https://www.facebook.com/ChallengesFoundationMY/](https://www.facebook.com/ChallengesFoundationMY/)</div>
+[http://challengesmedia.com/about-us/](http://challengesmedia.com/about-us/)
+[https://www.facebook.com/ChallengesFoundationMY/](https://www.facebook.com/ChallengesFoundationMY/)
