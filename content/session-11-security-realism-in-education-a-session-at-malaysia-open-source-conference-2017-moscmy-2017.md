@@ -1,15 +1,10 @@
 ---
-title: Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)
-date: 2017-03-29 10:48:00
+date: 2017-04-03T19:45:13+38:00
+title: Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017
 tags: [Speakers]
 ---
 
-<div style="text-align: justify;">Session 11 : Security Realism in Education</div>
-
 <div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
-
-<div style="text-align: justify;">  
-[http://lanyrd.com/2017/moscmy/sfqmcp/](http://lanyrd.com/2017/moscmy/sfqmcp/)</div>
 
 <div style="text-align: justify;">Tajul Azhar bin Mohd Tajul Ariffin</div>
 
