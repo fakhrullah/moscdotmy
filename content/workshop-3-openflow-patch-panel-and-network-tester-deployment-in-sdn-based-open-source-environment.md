@@ -1,13 +1,11 @@
 ---
 title: |
-  [MOSCMY 2017] Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
+  Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
 date: 2017-03-29 06:48:00
 tags: [Speakers]
 ---
 
 <div style="text-align: justify;">Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment</div>
-
-<div style="text-align: justify;">[http://lanyrd.com/2017/moscmy/sfqmcb/](http://lanyrd.com/2017/moscmy/sfqmcb/)</div>
 
 <div style="text-align: justify;">A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</div>
 
