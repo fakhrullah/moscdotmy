@@ -22,8 +22,18 @@
   </url>
   
   <url>
+    <loc>https://fakhrullah.github.io/moscdotmy/mosc-my-2016/</loc>
+    <lastmod>2017-04-03T19:45:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fakhrullah.github.io/moscdotmy/schedule/</loc>
     <lastmod>2017-04-03T19:45:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fakhrullah.github.io/moscdotmy/lightning-talk-during-moscmy-2017/</loc>
+    <lastmod>2017-04-03T19:45:13+09:00</lastmod>
   </url>
   
   <url>
@@ -32,8 +42,28 @@
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</loc>
-    <lastmod>2017-04-02T08:46:00+00:00</lastmod>
+    <loc>https://fakhrullah.github.io/moscdotmy/conference-structure-mosc-my/</loc>
+    <lastmod>2017-04-03T19:45:13+18:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fakhrullah.github.io/moscdotmy/session-10-online-accessibility-mapping-project-moscmy2017/</loc>
+    <lastmod>2017-04-03T19:45:13+28:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fakhrullah.github.io/moscdotmy/session-11-security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</loc>
+    <lastmod>2017-04-03T19:45:13+38:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fakhrullah.github.io/moscdotmy/session-12-the-freebsd-prime-malaysia-open-source-conference-moscmy-2017/</loc>
+    <lastmod>2017-04-03T19:45:13+48:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fakhrullah.github.io/moscdotmy/session-13-gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</loc>
+    <lastmod>2017-04-03T19:45:13+58:00</lastmod>
   </url>
   
   <url>
@@ -42,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</loc>
+    <loc>https://fakhrullah.github.io/moscdotmy/workshop-1-many-facets-of-open-source-tools-in-system-administration-context/</loc>
     <lastmod>2017-03-31T09:07:00+00:00</lastmod>
   </url>
   
@@ -52,42 +82,22 @@
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</loc>
-    <lastmod>2017-03-30T21:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</loc>
-    <lastmod>2017-03-29T10:48:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</loc>
+    <loc>https://fakhrullah.github.io/moscdotmy/workshop-3-openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</loc>
     <lastmod>2017-03-29T06:48:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</loc>
-    <lastmod>2017-03-28T16:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</loc>
+    <loc>https://fakhrullah.github.io/moscdotmy/session-9-to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</loc>
     <lastmod>2017-03-27T20:59:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/lightning-talk-during-moscmy-2017/</loc>
-    <lastmod>2017-03-26T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/workshop-2--wheres-my-pcap-malaysia-open-source-conference-2017/</loc>
+    <loc>https://fakhrullah.github.io/moscdotmy/workshop-2-wheres-my-pcap-malaysia-open-source-conference-2017/</loc>
     <lastmod>2017-03-25T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/moscmy-2017-session-4--your-open-source-smart-home/</loc>
+    <loc>https://fakhrullah.github.io/moscdotmy/session-4-your-open-source-smart-home/</loc>
     <lastmod>2017-03-25T07:08:00+00:00</lastmod>
   </url>
   
@@ -124,11 +134,6 @@
   <url>
     <loc>https://fakhrullah.github.io/moscdotmy/mosc-my-mission/</loc>
     <lastmod>2017-02-13T15:27:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fakhrullah.github.io/moscdotmy/conference-structure-mosc-my/</loc>
-    <lastmod>2017-02-13T15:23:00+00:00</lastmod>
   </url>
   
   <url>
@@ -212,13 +217,13 @@
   
   <url>
     <loc>https://fakhrullah.github.io/moscdotmy/tags/speakers/</loc>
-    <lastmod>2017-04-02T08:46:00+00:00</lastmod>
+    <lastmod>2017-04-03T19:45:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fakhrullah.github.io/moscdotmy/tags/structure/</loc>
-    <lastmod>2017-02-13T15:23:00+00:00</lastmod>
+    <lastmod>2017-04-03T19:45:13+18:00</lastmod>
     <priority>0</priority>
   </url>
   

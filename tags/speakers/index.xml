@@ -9,16 +9,119 @@
     <atom:link href="https://fakhrullah.github.io/moscdotmy/tags/speakers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Session 13 - GNU PSPP. A program for statistical analysis of sampled data</title>
-      <link>https://fakhrullah.github.io/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</link>
-      <pubDate>Sun, 02 Apr 2017 08:46:00 +0000</pubDate>
+      <title>Lightning Talk During MOSCMY 2017</title>
+      <link>https://fakhrullah.github.io/moscdotmy/lightning-talk-during-moscmy-2017/</link>
+      <pubDate>Mon, 03 Apr 2017 19:45:13 +0900</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/session-13--gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 13 : GNU PSPP. A program for statistical analysis of sampled data&lt;/div&gt;
+      <guid>https://fakhrullah.github.io/moscdotmy/lightning-talk-during-moscmy-2017/</guid>
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;15 minutes for each speakers.&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;A lightning talk is a very short presentation lasting only a few minutes, given at a conference or similar forum. Several lightning talks will usually be delivered by different speakers in a single session, sometimes called a data blitz.&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 10 - Online Accessibility Mapping Project</title>
+      <link>https://fakhrullah.github.io/moscdotmy/session-10-online-accessibility-mapping-project-moscmy2017/</link>
+      <pubDate>Mon, 03 Apr 2017 19:45:13 +2800</pubDate>
+      
+      <guid>https://fakhrullah.github.io/moscdotmy/session-10-online-accessibility-mapping-project-moscmy2017/</guid>
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 10 : Online Accessibility Mapping Project&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
 
-&lt;div style=&#34;text-align: justify;&#34;&gt;[](http://lanyrd.com/2017/moscmy/sfqzkx/)[http://lanyrd.com/2017/moscmy/sfqzkx/](http://lanyrd.com/2017/moscmy/sfqzkx/)&lt;/div&gt;
+&lt;div&gt;Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Challenges Foundation will run a project to make cycling accessible for children and persons with disabilities. The Challenges Tandem Cycle 4 Change Project will be launched in 2017 with a  National Recycle Bicycle campaign to collect used and abandoned bicycles in the community to be recycled into our tandem bicycles.&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;One activity of this project involves street mapping for location of abandoned bicycles as well as donated bicycles from public. We hope to use OpenStreetMap,  for this project to get public to pin the location of these bicycles and we can then send volunteers to collect them when we see a cluster of pins.&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;The other use of the street mapping will be to map accessible cycling spots that are also safe for us to organise cycling trips for youth and children with disabilities. I hope to start this project in April and hopefully by May we would be able to report some success or progress. If not , I see the presentation as an opportunity to initiate a Call for Action to delegates at this conference to help us move this project forward&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Speaker&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Mary Chen has been a disability advocate for 30 years. She is the Chairperson of Challenges Foundation, a nonprofit and non government Organisation to promote disability advocacy and inclusive community development.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://challengesmedia.com/about-us/&#34;&gt;http://challengesmedia.com/about-us/&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/ChallengesFoundationMY/&#34;&gt;https://www.facebook.com/ChallengesFoundationMY/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017</title>
+      <link>https://fakhrullah.github.io/moscdotmy/session-11-security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</link>
+      <pubDate>Mon, 03 Apr 2017 19:45:13 +3800</pubDate>
+      
+      <guid>https://fakhrullah.github.io/moscdotmy/session-11-security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</guid>
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Tajul Azhar bin Mohd Tajul Ariffin&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Friday 19th May, 2017 11:30am to 12:30pm (SMT)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Playground in Cyber Security are the most crucial thing that must be prepared in higher education. Investment can be made but knowledge must be delivered accordingly to the future leader. The lack of technology and the right competency is a challenge whereby knowledge must concurently works in reality to what the industry needs. Are we in the same shoe?&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Speakers&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Tajul Azhar bin Mohd Tajul Ariffin &amp; Syearifah Shahidan&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;We have been lecturing for almost 2 years after spending 13 years in government agencies as a IT officer. Passion is a key for success. Major in Cyber Security and Information Security, we are partner-in-crime who are developing the future Cyber Warrior in higher education&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 12 - The FreeBSD - Prime - Malaysia Open Source Conference</title>
+      <link>https://fakhrullah.github.io/moscdotmy/session-12-the-freebsd-prime-malaysia-open-source-conference-moscmy-2017/</link>
+      <pubDate>Mon, 03 Apr 2017 19:45:13 +4800</pubDate>
+      
+      <guid>https://fakhrullah.github.io/moscdotmy/session-12-the-freebsd-prime-malaysia-open-source-conference-moscmy-2017/</guid>
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 12 : The FreeBSD - Prime&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmcq/](http://lanyrd.com/2017/moscmy/sfqmcq/)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Friday 19th May, 2017 11:30am to 12:30pm (SMT)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Session 12 : The FreeBSD - Prime&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;As a developer, Sysadmin and sometimes a day to day user we come up with the words Linux and Unix. Unfortunately, although we will find a handful of Open Source Linux OS it is hard to find a true UNIX derivative in the Open Source arena. Till today the only fully open source UNIX derivative remaining is the *BSD or Berkley System Development.&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;It highly differs in structure, stability and philosophy compared to another Linux OS. This presentation briefly tries to explain about the history of BSD systems, structure, features and usage in our day to day life. Additionally, although starting with generic BSD family we will more likely be emphasizing on The FreeBSD Project.&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Speakers :&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Martin Wilke&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Muhammd Moinur Rahman&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Malaysia Open Source Conference MOSCMY 2017 [http://www.mosc.my](http://www.mosc.my/)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Call For Speakers form : [http://goo.gl/forms/BiWQIn2bD8](http://goo.gl/forms/BiWQIn2bD8)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Call For Speakers Malaysia Open Source Conference 2017 [https://goo.gl/0J5QJN](https://goo.gl/0J5QJN)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;MOSCMY 2017 Ticket2U Online Ticket : &lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;[https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017](https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Date : 17-19 May 2017 (Wednesday Till Friday)&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Time : 9am till 5pm&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;Venue : Faculty of Information Science &amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 13 - GNU PSPP. A program for statistical analysis of sampled data</title>
+      <link>https://fakhrullah.github.io/moscdotmy/session-13-gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</link>
+      <pubDate>Mon, 03 Apr 2017 19:45:13 +5800</pubDate>
+      
+      <guid>https://fakhrullah.github.io/moscdotmy/session-13-gnu-pspp-a-program-for-statistical-analysis-of-sampled-data/</guid>
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 13 : GNU PSPP. A program for statistical analysis of sampled data&lt;/div&gt;
+
+&lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;Noraini Talib&lt;/div&gt;
 
@@ -86,13 +189,11 @@ Get your neighbour WPA2 password without cracking.&lt;br /&gt;
     
     <item>
       <title>Workshop 1 - Many Facets of Open Source Tools in System Administration Context</title>
-      <link>https://fakhrullah.github.io/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/workshop-1-many-facets-of-open-source-tools-in-system-administration-context/</link>
       <pubDate>Fri, 31 Mar 2017 09:07:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/workshop-1--many-facets-of-open-source-tools-in-system-administration-context/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/workshop-1-many-facets-of-open-source-tools-in-system-administration-context/</guid>
       <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Workshop 1 : Many Facets of Open Source Tools in System Administration Context&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmby/](http://lanyrd.com/2017/moscmy/sfqmby/)&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
 
@@ -173,76 +274,13 @@ Open Source License in Enterprise Environment
     </item>
     
     <item>
-      <title>Session 10 - Online Accessibility Mapping Project MOSCMY2017</title>
-      <link>https://fakhrullah.github.io/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</link>
-      <pubDate>Thu, 30 Mar 2017 21:29:00 +0000</pubDate>
-      
-      <guid>https://fakhrullah.github.io/moscdotmy/session-10--online-accessibility-mapping-project-moscmy2017/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 10 : Online Accessibility Mapping Project&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;
-
-&lt;div&gt;Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmbw/](http://lanyrd.com/2017/moscmy/sfqmbw/)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Challenges Foundation will run a project to make cycling accessible for children and persons with disabilities. The Challenges Tandem Cycle 4 Change Project will be launched in 2017 with a  National Recycle Bicycle campaign to collect used and abandoned bicycles in the community to be recycled into our tandem bicycles.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;One activity of this project involves street mapping for location of abandoned bicycles as well as donated bicycles from public. We hope to use OpenStreetMap,  for this project to get public to pin the location of these bicycles and we can then send volunteers to collect them when we see a cluster of pins.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;The other use of the street mapping will be to map accessible cycling spots that are also safe for us to organise cycling trips for youth and children with disabilities. I hope to start this project in April and hopefully by May we would be able to report some success or progress. If not , I see the presentation as an opportunity to initiate a Call for Action to delegates at this conference to help us move this project forward&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Speaker&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Mary Chen has been a disability advocate for 30 years. She is the Chairperson of Challenges Foundation, a nonprofit and non government Organisation to promote disability advocacy and inclusive community development.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://challengesmedia.com/about-us/](http://challengesmedia.com/about-us/)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[https://www.facebook.com/ChallengesFoundationMY/](https://www.facebook.com/ChallengesFoundationMY/)&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)</title>
-      <link>https://fakhrullah.github.io/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</link>
-      <pubDate>Wed, 29 Mar 2017 10:48:00 +0000</pubDate>
-      
-      <guid>https://fakhrullah.github.io/moscdotmy/session-11--security-realism-in-education-a-session-at-malaysia-open-source-conference-2017-moscmy-2017/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 11 : Security Realism in Education&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;  
-[http://lanyrd.com/2017/moscmy/sfqmcp/](http://lanyrd.com/2017/moscmy/sfqmcp/)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Tajul Azhar bin Mohd Tajul Ariffin&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Friday 19th May, 2017 11:30am to 12:30pm (SMT)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Playground in Cyber Security are the most crucial thing that must be prepared in higher education. Investment can be made but knowledge must be delivered accordingly to the future leader. The lack of technology and the right competency is a challenge whereby knowledge must concurently works in reality to what the industry needs. Are we in the same shoe?&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Speakers&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Tajul Azhar bin Mohd Tajul Ariffin &amp; Syearifah Shahidan&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;We have been lecturing for almost 2 years after spending 13 years in government agencies as a IT officer. Passion is a key for success. Major in Cyber Security and Information Security, we are partner-in-crime who are developing the future Cyber Warrior in higher education&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[MOSCMY 2017] Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
+      <title>Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
 </title>
-      <link>https://fakhrullah.github.io/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/workshop-3-openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</link>
       <pubDate>Wed, 29 Mar 2017 06:48:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/%5Bmoscmy-2017%5D-workshop-3--openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/workshop-3-openflow-patch-panel-and-network-tester-deployment-in-sdn-based-open-source-environment/</guid>
       <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmcb/](http://lanyrd.com/2017/moscmy/sfqmcb/)&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
 
@@ -257,62 +295,16 @@ Open Source License in Enterprise Environment
     </item>
     
     <item>
-      <title>Session 12 - The FreeBSD - Prime -  Malaysia Open Source Conference MOSCMY 2017</title>
-      <link>https://fakhrullah.github.io/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</link>
-      <pubDate>Tue, 28 Mar 2017 16:30:00 +0000</pubDate>
-      
-      <guid>https://fakhrullah.github.io/moscdotmy/session-12--the-freebsd---prime----malaysia-open-source-conference-moscmy-2017/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 12 : The FreeBSD - Prime&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmcq/](http://lanyrd.com/2017/moscmy/sfqmcq/)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Friday 19th May, 2017 11:30am to 12:30pm (SMT)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Session 12 : The FreeBSD - Prime&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;As a developer, Sysadmin and sometimes a day to day user we come up with the words Linux and Unix. Unfortunately, although we will find a handful of Open Source Linux OS it is hard to find a true UNIX derivative in the Open Source arena. Till today the only fully open source UNIX derivative remaining is the *BSD or Berkley System Development.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;It highly differs in structure, stability and philosophy compared to another Linux OS. This presentation briefly tries to explain about the history of BSD systems, structure, features and usage in our day to day life. Additionally, although starting with generic BSD family we will more likely be emphasizing on The FreeBSD Project.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Speakers :&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Martin Wilke&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Muhammd Moinur Rahman&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Malaysia Open Source Conference MOSCMY 2017 [http://www.mosc.my](http://www.mosc.my/)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Call For Speakers form : [http://goo.gl/forms/BiWQIn2bD8](http://goo.gl/forms/BiWQIn2bD8)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Call For Speakers Malaysia Open Source Conference 2017 [https://goo.gl/0J5QJN](https://goo.gl/0J5QJN)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;MOSCMY 2017 Ticket2U Online Ticket : &lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017](https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Date : 17-19 May 2017 (Wednesday Till Friday)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Time : 9am till 5pm&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Venue : Faculty of Information Science &amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 9 - To R or not to R - Experience from Using R in a Medical School (MOSCMY2017)</title>
-      <link>https://fakhrullah.github.io/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</link>
+      <title>Session 9 - To R or not to R - Experience from Using R in a Medical School</title>
+      <link>https://fakhrullah.github.io/moscdotmy/session-9-to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</link>
       <pubDate>Mon, 27 Mar 2017 20:59:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/session-9--to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-9-to-r-or-not-to-r-experience-from-using-r-in-a-medical-school-moscmy2017/</guid>
       <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 9 : To R or not to R: Experience from Using R in a Medical School&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmbt/](http://lanyrd.com/2017/moscmy/sfqmbt/)&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;Venue : Faculty of Information Science &amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.&lt;/div&gt;
 
@@ -331,44 +323,12 @@ Open Source License in Enterprise Environment
     </item>
     
     <item>
-      <title>Lightning Talk During MOSCMY 2017</title>
-      <link>https://fakhrullah.github.io/moscdotmy/lightning-talk-during-moscmy-2017/</link>
-      <pubDate>Sun, 26 Mar 2017 19:00:00 +0000</pubDate>
-      
-      <guid>https://fakhrullah.github.io/moscdotmy/lightning-talk-during-moscmy-2017/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Lightning Talk During MOSCMY 2017&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;15 minutes for each speakers.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;A lightning talk is a very short presentation lasting only a few minutes, given at a conference or similar forum. Several lightning talks will usually be delivered by different speakers in a single session, sometimes called a data blitz.&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Call For Speakers form : [http://goo.gl/forms/BiWQIn2bD8](http://goo.gl/forms/BiWQIn2bD8)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Call For Speakers Malaysia Open Source Conference 2017 [https://goo.gl/0J5QJN](https://goo.gl/0J5QJN)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;MOSCMY 2017 Ticket2U Online Ticket : &lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017](https://www.ticket2u.com.my/event/9353/malaysia-open-source-conference-2017)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Date : 17-19 May 2017 (Wednesday Till Friday)&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Time : 9am till 5pm&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;Venue : Faculty of Information Science &amp; Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia.&lt;/div&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;[![](https://4.bp.blogspot.com/-AOQU-VCBUAY/WNefWI04neI/AAAAAAAAEOw/aCgeVSuehqE01QGffJetfgsnoOjRmuxqwCLcB/s320/qr-code-facebook-event-moscmy2017.png)](https://4.bp.blogspot.com/-AOQU-VCBUAY/WNefWI04neI/AAAAAAAAEOw/aCgeVSuehqE01QGffJetfgsnoOjRmuxqwCLcB/s1600/qr-code-facebook-event-moscmy2017.png)&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Workshop 2 - Where&#39;s my PCAP? Malaysia Open Source Conference 2017</title>
-      <link>https://fakhrullah.github.io/moscdotmy/workshop-2--wheres-my-pcap-malaysia-open-source-conference-2017/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/workshop-2-wheres-my-pcap-malaysia-open-source-conference-2017/</link>
       <pubDate>Sat, 25 Mar 2017 09:00:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/workshop-2--wheres-my-pcap-malaysia-open-source-conference-2017/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/workshop-2-wheres-my-pcap-malaysia-open-source-conference-2017/</guid>
       <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Workshop 2 : Where&#39;s my PCAP? Malaysia Open Source Conference 2017&lt;/div&gt;
-
-&lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfqmbz/](http://lanyrd.com/2017/moscmy/sfqmbz/)&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)&lt;/div&gt;
 
@@ -406,10 +366,10 @@ Open Source License in Enterprise Environment
     
     <item>
       <title>MOSCMY 2017 Session 4 - Your Open Source Smart Home</title>
-      <link>https://fakhrullah.github.io/moscdotmy/moscmy-2017-session-4--your-open-source-smart-home/</link>
+      <link>https://fakhrullah.github.io/moscdotmy/session-4-your-open-source-smart-home/</link>
       <pubDate>Sat, 25 Mar 2017 07:08:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/moscmy-2017-session-4--your-open-source-smart-home/</guid>
+      <guid>https://fakhrullah.github.io/moscdotmy/session-4-your-open-source-smart-home/</guid>
       <description>&lt;div style=&#34;text-align: justify;&#34;&gt;Session 4 : Your Open Source Smart Home&lt;/div&gt;
 
 &lt;div style=&#34;text-align: justify;&#34;&gt;[http://lanyrd.com/2017/moscmy/sfcggd/](http://lanyrd.com/2017/moscmy/sfcggd/)&lt;/div&gt;
