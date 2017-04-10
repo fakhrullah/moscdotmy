@@ -68,7 +68,8 @@ params:
       position: left
       sticky: none
 
-  # customCss: # arrays
+  customCss: # arrays
+    - css/style.css
 
 # ======================================================================
 # 
