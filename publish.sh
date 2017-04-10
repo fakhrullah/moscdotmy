@@ -29,31 +29,43 @@ fi
 printf "
 Clear old publication
 
-rm -rf public
+> rm -rf public
 "
 rm -rf public # clear off old publication
 
 printf "
 What is this?
 
-git clone .git --branch gh-pages public
+> git clone .git --branch gh-pages public
 "
 git clone .git --branch gh-pages public
 
 printf "
 Generate website
 
-hugo
+> hugo
 "
 hugo
 
 printf "
 Publish
 
-cd public && git add --all && git commit -m "Publishing to gh-pages" && git push origin gh-pages
-
-git push origin gh-pages
+> cd public && git add --all && git commit -m \"Publishing to gh-pages\" && git push origin gh-pages
 "
 cd public && git add --all && git commit -m "Publishing to gh-pages" && git push origin gh-pages
 
+printf "
+Checkout gh-pages
+
+> git checkout gh-pages
+"
+git checkout gh-pages
+
+printf "
+Push to build website in server
+
+> git push origin gh-pages
+"
 git push origin gh-pages
+git checkout master
+
