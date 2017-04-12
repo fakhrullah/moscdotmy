@@ -12,3 +12,8 @@ tags: [Structure]
 3. **Demonstration Booth** : There will be 20 booths for sponsors to exhibit and demonstrate their products, services and projects in detail to participants.
 
 4. **Birds of a Feather** : There will be Birds of a Feather sessions, where participants with the same interest can get together to have a lively dialogue about their Open Source project.
+
+{{< figure 
+src="/images/conference-structure-moscmy-2017.png"
+alt="conference structure"
+link="/images/conference-structure-moscmy-2017.png" >}}
