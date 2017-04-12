@@ -1,6 +1,6 @@
 ---
 title: Registration For MOSC MY 2016 Is Now Open
-date: 2016-04-09 07:07:00
+date: 2016-04-09T07:07:00+08:00
 tags: [Registration]
 ---
 

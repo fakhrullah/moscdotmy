@@ -1,6 +1,6 @@
 ---
 title: Session 9 - To R or not to R - Experience from Using R in a Medical School
-date: 2017-03-27 20:59:00
+date: 2017-03-27T20:59:00+08:00
 tags: [Speakers]
 ---
 

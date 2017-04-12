@@ -1,6 +1,6 @@
 ---
 title: Workshop 1 - Many Facets of Open Source Tools in System Administration Context
-date: 2017-03-31 09:07:00
+date: 2017-03-31T09:07:00+08:00
 tags: [Speakers]
 ---
 

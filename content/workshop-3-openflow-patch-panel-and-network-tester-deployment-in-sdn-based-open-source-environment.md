@@ -1,7 +1,7 @@
 ---
 title: |
   Workshop 3 : Openflow Patch Panel and Network Tester Deployment in SDN Based Open Source Environment
-date: 2017-03-29 06:48:00
+date: 2017-03-29T06:48:00+08:00
 tags: [Speakers]
 ---
 

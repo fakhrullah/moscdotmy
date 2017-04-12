@@ -1,6 +1,6 @@
 ---
 title: MOSCMY 2017 Session 4 - Your Open Source Smart Home
-date: 2017-03-25 07:08:00
+date: 2017-03-25T07:08:00+08:00
 tags: [Speakers]
 ---
 
@@ -24,25 +24,10 @@ He is active contributor in Open Source community and organizer of multiple open
 
 Sam Suresh is also a Open Source Advocate, Technology Instructor, WordPress Meetup Organizer, Joomla Volunteer bio from Twitter
 
-Facebook event page
+[Facebook event page](https://www.facebook.com/events/760252707489253/)
 
-https://www.facebook.com/events/760252707489253/
-
-
-
-
-
-
-
-[![](https://1.bp.blogspot.com/-fd75rTlKHPc/WNWm5GNPDSI/AAAAAAAAEOY/OiBsVqtwIhwgEcIpI3NNupSq2gEhRAzJACLcB/s320/sam-suresh-moscmy2017-5198092.jpg)](https://1.bp.blogspot.com/-fd75rTlKHPc/WNWm5GNPDSI/AAAAAAAAEOY/OiBsVqtwIhwgEcIpI3NNupSq2gEhRAzJACLcB/s1600/sam-suresh-moscmy2017-5198092.jpg)
-
-
-
-
-
-Sam Suresh
-
-
-
-
-
+{{< figure 
+src="/images/sam-suresh-moscmy-2017.jpg"
+alt="Sam Suresh"
+link="/images/sam-suresh-moscmy-2017.jpg"
+title="Sam Suresh" >}}

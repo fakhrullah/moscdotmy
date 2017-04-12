@@ -1,6 +1,6 @@
 ---
 title: Workshop 2 - Where's my PCAP? Malaysia Open Source Conference 2017
-date: 2017-03-25 09:00:00
+date: 2017-03-25T09:00:00+08:00
 tags: [Speakers]
 ---
 

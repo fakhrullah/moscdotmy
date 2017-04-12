@@ -1,5 +1,5 @@
 ---
-date: 2017-04-03T19:45:13+38:00
+date: 2017-04-03T10:45:13+08:00
 title: Session 11 - Security Realism in Education A session at Malaysia Open Source Conference 2017
 tags: [Speakers]
 ---
