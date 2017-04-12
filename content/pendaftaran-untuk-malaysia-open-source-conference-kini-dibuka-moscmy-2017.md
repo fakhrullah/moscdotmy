@@ -11,28 +11,9 @@ Pendaftaran untuk Malaysia Open Source Conference kini dibuka MOSCMY 2017
 Jadual terkini  
 
 [http://lanyrd.com/2017/moscmy/](http://lanyrd.com/2017/moscmy/)﻿  
-  
-  
 
-
-
-
-
-
-
-
-[![](https://1.bp.blogspot.com/-76HqVhAjCeQ/WOHF0BTsCbI/AAAAAAAAb6Q/ucO5tjv9waAqZ2SNI8Wf7vMo5WssiNT3QCLcB/s320/MOSCMY2017%2BPromobanner%2B1.png)](https://1.bp.blogspot.com/-76HqVhAjCeQ/WOHF0BTsCbI/AAAAAAAAb6Q/ucO5tjv9waAqZ2SNI8Wf7vMo5WssiNT3QCLcB/s1600/MOSCMY2017%2BPromobanner%2B1.png)
-
-
-
-
-
-Malaysia Open Source Conference 2017 MOCMY2017
-
-
-
-
-
-
-
-  
+{{< figure 
+src="/images/moscmy-2017-promo-banner.png"
+alt="MOSC MY 2017 Promo Banner"
+link="/images/moscmy-2017-promo-banner.png"
+title="MOSC MY 2017 Promo" >}}
