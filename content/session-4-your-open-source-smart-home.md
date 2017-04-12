@@ -1,6 +1,6 @@
 ---
 title: MOSCMY 2017 Session 4 - Your Open Source Smart Home
-date: 2017-03-25 07:08:00
+date: 2017-03-25T07:08:00+08:00
 tags: [Speakers]
 ---
 

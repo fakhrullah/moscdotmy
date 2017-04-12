@@ -1,6 +1,6 @@
 ---
 title: Join Us For MOSCMY2017 Malaysia Open Source Conference 17-19 May 2017
-date: 2017-02-18 09:30:00
+date: 2017-02-18T09:30:00+08:00
 tags: [Conference,Video]
 ---
 

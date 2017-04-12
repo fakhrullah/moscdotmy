@@ -1,6 +1,6 @@
 ---
 title: Malaysia Open Source Conference 2017 (MOSCMY 2017)
-date: 2017-02-12 16:56:00
+date: 2017-02-12T16:56:00+08:00
 tags: [Conference,moscmy]
 ---
 

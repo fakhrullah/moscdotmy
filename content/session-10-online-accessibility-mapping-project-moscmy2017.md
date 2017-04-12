@@ -1,5 +1,5 @@
 ---
-date: 2017-04-03T19:45:13+28:00
+date: 2017-04-03T09:45:13+08:00
 title: Session 10 - Online Accessibility Mapping Project
 tags: [Speakers]
 ---

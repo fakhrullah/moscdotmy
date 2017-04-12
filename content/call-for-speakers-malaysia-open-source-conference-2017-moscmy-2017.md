@@ -1,6 +1,6 @@
 ---
 title: Call For Speakers Malaysia Open Source Conference 2017 (MOSCMY 2017)
-date: 2017-03-30 22:18:00
+date: 2017-03-30T22:18:00+08:00
 tags: [Speakers]
 weight: 10
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2017-04-03T19:45:13+09:00
+date: 2017-04-03T19:45:13+08:00
 title: Lightning Talk During MOSCMY 2017
 tags: [Speakers]
 ---

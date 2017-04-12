@@ -1,6 +1,6 @@
 ---
-date: 2017-04-03T19:45:13+18:00
-title: Conference Structure
+date: 2017-02-12T01:45:13+08:00
+title: Conference Structure of MOSCMY 2017
 tags: [Structure]
 ---
 

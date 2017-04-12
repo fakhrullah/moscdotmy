@@ -1,6 +1,6 @@
 ---
 title: Participants registration For Malaysia Open Source Conference MOSC MY 2017 is now open
-date: 2017-02-13 15:57:00
+date: 2017-02-13T15:57:00+08:00
 tags: [Participants,Registration]
 ---
 

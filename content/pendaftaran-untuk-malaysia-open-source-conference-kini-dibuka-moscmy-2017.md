@@ -1,6 +1,6 @@
 ---
 title: Pendaftaran untuk Malaysia Open Source Conference kini dibuka MOSCMY 2017
-date: 2017-04-03 11:47:00
+date: 2017-04-03T11:47:00+08:00
 tags: [Participants]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Twitter From Eventbrite To Be Share in Twitter Tweet
-date: 2017-03-20 13:48:00
+date: 2017-03-20T13:48:00+08:00
 tags: [Participants,Registration]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Want To Be A Speaker For Malaysia Open Source Conference 2017?
-date: 2017-03-20 13:50:00
+date: 2017-03-20T13:50:00+08:00
 tags: [Speakers]
 ---
 

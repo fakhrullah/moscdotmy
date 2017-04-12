@@ -1,6 +1,6 @@
 ---
 title: Call For Speakers Malaysia Open Source Conference 2016 MOSC MY
-date: 2016-03-20 09:17:00
+date: 2016-03-20T09:17:00+08:00
 tags: [Speakers]
 ---
 

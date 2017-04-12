@@ -1,6 +1,6 @@
 ---
 title: Malaysia Open Source Conference 2016 MOSC MY
-date: 2016-03-20 09:16:00
+date: 2016-03-20T09:16:00+08:00
 tags: [Conference,Date,Venue]
 ---
 
