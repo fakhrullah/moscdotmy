@@ -8,9 +8,7 @@ Session 10 : Online Accessibility Mapping Project
 
 A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)
 
-
 Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)
-
 
 Challenges Foundation will run a project to make cycling accessible for children and persons with disabilities. The Challenges Tandem Cycle 4 Change Project will be launched in 2017 with a  National Recycle Bicycle campaign to collect used and abandoned bicycles in the community to be recycled into our tandem bicycles.
 
