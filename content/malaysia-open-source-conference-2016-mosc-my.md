@@ -4,6 +4,8 @@ date: 2016-03-20T09:16:00+08:00
 tags: [Conference,Date,Venue]
 ---
 
+![mosc-my-16-poster](/images/poster-mosc-my-2016.jpg)
+
 **Date :** 25 – 27 Mei 2016
 
 **Venue :**
@@ -12,12 +14,23 @@ Faculty of Information Science & Technology
 
 Universiti Kebangsaan Malaysia, Bangi, Selangor
 
-[http://www.mosc.my](http://www.mosc.my/)
+The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software.
 
-**[Location Map](http://www.ftsm.ukm.my/location.php)** : [http://www.ftsm.ukm.my/location.php](http://www.ftsm.ukm.my/location.php)  
+Some pictures from the past event.
 
-The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software.  
+![mosc-my-16-1](/images/malaysia-open-source-conference-16-1.jpg)
 
-[![moscmy 2016](/images/mosc-2016.png)](/images/mosc-2016.png)
+![mosc-my-16-2](/images/malaysia-open-source-conference-16-2.jpg)
 
-MOSC MY 2016
+![mosc-my-16-3](/images/malaysia-open-source-conference-16-3.jpg)
+
+![mosc-my-16-4](/images/malaysia-open-source-conference-16-4.jpg)
+
+![mosc-my-16-5](/images/malaysia-open-source-conference-16-5.jpg)
+
+![mosc-my-16-6](/images/malaysia-open-source-conference-16-6.jpg)
+
+
+
+
+
