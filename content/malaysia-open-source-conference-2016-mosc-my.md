@@ -30,6 +30,7 @@ Some pictures from the past event.
 
 ![mosc-my-16-6](/images/malaysia-open-source-conference-16-6.jpg)
 
+Don't forget to like our [Facebook Page](https://www.facebook.com/moscmy/)
 
 
 
