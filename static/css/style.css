@@ -25,3 +25,16 @@
 		background-position: -10%;
 	}
 }
+
+/**
+ * Add style on pinned article
+ */
+.post.pinned h1::before {
+    content: "#";
+    background-color: orange;
+    color: white;
+    display: inline-block;
+    padding: 0 10px;
+    border-radius: 2px;
+    transform: rotateZ(15deg);
+}
