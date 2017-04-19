@@ -4,7 +4,7 @@ title: Malaysia Open Source Conference MOSC.my
 metaDataFormat: yaml
 
 publishDir: public
-canonifyURLs: true
+# canonifyURLs: true
 
 theme: musang
 # disqusShortname: 
@@ -69,7 +69,7 @@ params:
       sticky: none
 
   customCss: # arrays
-    - css/style.css
+    - /css/style.css
 
 # ======================================================================
 # 
