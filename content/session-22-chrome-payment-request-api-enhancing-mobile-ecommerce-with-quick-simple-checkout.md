@@ -1,6 +1,6 @@
 ---
 date: 2017-05-07T05:21:57+08:00
-description: ""
+//description: ""
 title: Session 22 : Chrome Payment Request API : Enhancing mobile ecommerce with quick simple checkout
 ---
 

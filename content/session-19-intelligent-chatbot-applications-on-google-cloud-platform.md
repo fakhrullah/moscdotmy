@@ -1,6 +1,6 @@
 ---
 date: 2017-05-06T21:51:58+08:00
-description: ""
+//description: ""
 title: Session 19 : Intelligent chatbot applications on Google Cloud Platform (MOSCMY 2017)
 ---
 

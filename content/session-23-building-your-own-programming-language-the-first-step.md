@@ -1,6 +1,5 @@
 ---
 date: 2017-05-07T02:53:55+08:00
-description: ""
 title: Session 23 : Building Your Own Programming Language - The First Step
 ---
 
