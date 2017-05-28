@@ -1,6 +1,6 @@
 ---
 date: 2017-05-07T02:53:55+08:00
-title: Session 23 : Building Your Own Programming Language - The First Step
+title: Session 23 - Building Your Own Programming Language - The First Step
 ---
 
 Thursday 18th May, 2017 12:00pm to 12:45pm (SMT)
