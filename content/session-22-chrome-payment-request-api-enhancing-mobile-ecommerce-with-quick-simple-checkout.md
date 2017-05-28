@@ -1,7 +1,7 @@
 ---
 date: 2017-05-07T05:21:57+08:00
 //description: ""
-title: Session 22 : Chrome Payment Request API : Enhancing mobile ecommerce with quick simple checkout
+title: Session 22 - Chrome Payment Request API - Enhancing mobile ecommerce with quick simple checkout
 ---
 
 A session at Malaysia Open Source Conference 2017 (MOSCMY 2017)
