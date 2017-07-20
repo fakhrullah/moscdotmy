@@ -2,31 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audience on Malaysia Open Source Conference MOSC.my</title>
-    <link>https://fakhrullah.github.io/moscdotmy/tags/audience/index.xml</link>
+    <link>http://moscmy.fajarhac.com/tags/audience/</link>
     <description>Recent content in Audience on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://fakhrullah.github.io/moscdotmy/tags/audience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2017 15:33:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://moscmy.fajarhac.com/tags/audience/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Target Audience MOSC MY</title>
-      <link>https://fakhrullah.github.io/moscdotmy/target-audience-mosc-my/</link>
-      <pubDate>Mon, 13 Feb 2017 15:33:00 +0000</pubDate>
+      <title>Target Audience MOSC MY 2016</title>
+      <link>http://moscmy.fajarhac.com/target-audience-mosc-my/</link>
+      <pubDate>Mon, 13 Feb 2017 15:33:00 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/target-audience-mosc-my/</guid>
-      <description>&lt;p&gt;Technical managers, administrators, developers and expert users from the following organisations:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Government&lt;/strong&gt; : All ministries and agencies&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Academics&lt;/strong&gt; : All public and private universities and colleges&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Business&lt;/strong&gt; : All MNC, Public Listed Companies, Technology Venture Capital Companies, Telecommunication, Banking, Transportation and Services Industries.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt; : All OSS communities that have representation in Malaysia&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://4.bp.blogspot.com/-nPVYkEVOK4Y/Vtxn3AtjHDI/AAAAAAAAAGo/Rt9mxv828e8/s1600/Target%2BAudience%2B-%2BMOSCMY2016%2BPROPOSAL%2BV2%2BSlide.png&#34;&gt;&lt;img src=&#34;https://4.bp.blogspot.com/-nPVYkEVOK4Y/Vtxn3AtjHDI/AAAAAAAAAGo/Rt9mxv828e8/s400/Target%2BAudience%2B-%2BMOSCMY2016%2BPROPOSAL%2BV2%2BSlide.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Target Audience&lt;/p&gt;
-</description>
+      <guid>http://moscmy.fajarhac.com/target-audience-mosc-my/</guid>
+      <description>Technical managers, administrators, developers and expert users from the following organisations:
+ Government : All ministries and agencies Academics : All public and private universities and colleges Business : All MNC, Public Listed Companies, Technology Venture Capital Companies, Telecommunication, Banking, Transportation and Services Industries. Community : All OSS communities that have representation in Malaysia    Target Audience MOSC My 2016   </description>
     </item>
     
   </channel>

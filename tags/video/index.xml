@@ -2,34 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Malaysia Open Source Conference MOSC.my</title>
-    <link>https://fakhrullah.github.io/moscdotmy/tags/video/index.xml</link>
+    <link>http://moscmy.fajarhac.com/tags/video/</link>
     <description>Recent content in Video on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://fakhrullah.github.io/moscdotmy/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2017 09:30:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://moscmy.fajarhac.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Join Us For MOSCMY2017 Malaysia Open Source Conference 17-19 May 2017</title>
-      <link>https://fakhrullah.github.io/moscdotmy/join-us-for-moscmy2017-malaysia-open-source-conference-17-19-may-2017/</link>
-      <pubDate>Sat, 18 Feb 2017 09:30:00 +0000</pubDate>
+      <link>http://moscmy.fajarhac.com/join-us-for-moscmy2017-malaysia-open-source-conference-17-19-may-2017/</link>
+      <pubDate>Sat, 18 Feb 2017 09:30:00 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/join-us-for-moscmy2017-malaysia-open-source-conference-17-19-may-2017/</guid>
-      <description>&lt;p&gt;Over the years, Malaysia Open Source Conference or MOSC MY have brought together thousands participants, of CEOs and leaders, vendors, consultants, associations and regulators from around Malaysia and the world to address mutual challenges and share information on Open Source Software.&lt;/p&gt;
-
-&lt;p&gt;With &amp;ldquo;Open Source In Financial Services&amp;rdquo; as the theme for MOSCMY year 2017, we are addressing the main technology focus and trends for most consumers.&lt;/p&gt;
-
-&lt;p&gt;Official Website &lt;a href=&#34;http://www.mosc.my/&#34;&gt;http://www.mosc.my&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Call For Speakers form : &lt;a href=&#34;http://goo.gl/forms/BiWQIn2bD8&#34;&gt;http://goo.gl/forms/BiWQIn2bD8&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;Update schedule for MOSCMY 2017 &lt;a href=&#34;http://lanyrd.com/2017/moscmy/&#34;&gt;http://lanyrd.com/2017/moscmy/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Participants registration : &lt;a href=&#34;https://moscmy2017.eventbrite.com/&#34;&gt;https://moscmy2017.eventbrite.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://moscmy.fajarhac.com/join-us-for-moscmy2017-malaysia-open-source-conference-17-19-may-2017/</guid>
+      <description>Over the years, Malaysia Open Source Conference or MOSC MY have brought together thousands participants, of CEOs and leaders, vendors, consultants, associations and regulators from around Malaysia and the world to address mutual challenges and share information on Open Source Software.
+With &amp;ldquo;Open Source In Financial Services&amp;rdquo; as the theme for MOSCMY year 2017, we are addressing the main technology focus and trends for most consumers.
+Official Website http://www.mosc.my
+Call For Speakers form : http://goo.</description>
     </item>
     
   </channel>

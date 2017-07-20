@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Structure on Malaysia Open Source Conference MOSC.my</title>
-    <link>https://fakhrullah.github.io/moscdotmy/tags/structure/index.xml</link>
+    <link>http://moscmy.fajarhac.com/tags/structure/</link>
     <description>Recent content in Structure on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://fakhrullah.github.io/moscdotmy/tags/structure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2017 01:45:13 +0800</lastBuildDate>
+    
+	<atom:link href="http://moscmy.fajarhac.com/tags/structure/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Conference Structure</title>
-      <link>https://fakhrullah.github.io/moscdotmy/conference-structure-mosc-my/</link>
-      <pubDate>Mon, 03 Apr 2017 19:45:13 +1800</pubDate>
+      <title>Conference Structure of MOSCMY 2017</title>
+      <link>http://moscmy.fajarhac.com/conference-structure-mosc-my/</link>
+      <pubDate>Sun, 12 Feb 2017 01:45:13 +0800</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/conference-structure-mosc-my/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Talk and Tutorials&lt;/strong&gt;: There will be 24 talks and tutorial sessions&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Competition&lt;/strong&gt; : There will be programming competitions for Enterprise Open Source solution.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Demonstration Booth&lt;/strong&gt; : There will be 20 booths for sponsors to exhibit and demonstrate their products, services and projects in detail to participants.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Birds of a Feather&lt;/strong&gt; : There will be Birds of a Feather sessions, where participants with the same interest can get together to have a lively dialogue about their Open Source project.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <guid>http://moscmy.fajarhac.com/conference-structure-mosc-my/</guid>
+      <description>Talk and Tutorials: There will be 24 talks and tutorial sessions
+ Competition : There will be programming competitions for Enterprise Open Source solution.
+ Demonstration Booth : There will be 20 booths for sponsors to exhibit and demonstrate their products, services and projects in detail to participants.
+ Birds of a Feather : There will be Birds of a Feather sessions, where participants with the same interest can get together to have a lively dialogue about their Open Source project.</description>
     </item>
     
   </channel>

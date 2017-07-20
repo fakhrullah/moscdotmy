@@ -2,26 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mission on Malaysia Open Source Conference MOSC.my</title>
-    <link>https://fakhrullah.github.io/moscdotmy/tags/mission/index.xml</link>
+    <link>http://moscmy.fajarhac.com/tags/mission/</link>
     <description>Recent content in Mission on Malaysia Open Source Conference MOSC.my</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://fakhrullah.github.io/moscdotmy/tags/mission/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2017 15:27:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://moscmy.fajarhac.com/tags/mission/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>MOSC MY Mission</title>
-      <link>https://fakhrullah.github.io/moscdotmy/mosc-my-mission/</link>
+      <link>http://moscmy.fajarhac.com/mosc-my-mission/</link>
       <pubDate>Mon, 13 Feb 2017 15:27:00 +0000</pubDate>
       
-      <guid>https://fakhrullah.github.io/moscdotmy/mosc-my-mission/</guid>
-      <description>&lt;p&gt;The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software.&lt;/p&gt;
-
-&lt;p&gt;MOSCMY is run by volunteers. As days go by we are rapidly increase momentum. This is the largest &amp;ldquo;&lt;strong&gt;Teh Tarik Session&lt;/strong&gt;&amp;rdquo; for open source community in Malaysia.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://3.bp.blogspot.com/-se6taeAF5hc/WKFfp0qMVtI/AAAAAAAAbwQ/gBR-O24ewcY8T0OXhP12gqTSyrjKpInewCLcB/s1600/DSC_8745.JPG&#34;&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-se6taeAF5hc/WKFfp0qMVtI/AAAAAAAAbwQ/gBR-O24ewcY8T0OXhP12gqTSyrjKpInewCLcB/s320/DSC_8745.JPG&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;MOSCMY 2016 Secretariat &amp;amp; Volunteers &lt;/p&gt;
-</description>
+      <guid>http://moscmy.fajarhac.com/mosc-my-mission/</guid>
+      <description>The Malaysia Open Source Conference (MOSC MY) mission is to accomplish World Class Human Resources in Information Technology, through knowledge sharing and the usage of Open Source Software. MOSCMY is run by volunteers. As days go by we are rapidly increase momentum. This is the largest &#34;**Teh Tarik Session**&#34; for open source community in Malaysia.   [![](https://3.bp.blogspot.com/-se6taeAF5hc/WKFfp0qMVtI/AAAAAAAAbwQ/gBR-O24ewcY8T0OXhP12gqTSyrjKpInewCLcB/s320/DSC_8745.JPG)](https://3.bp.blogspot.com/-se6taeAF5hc/WKFfp0qMVtI/AAAAAAAAbwQ/gBR-O24ewcY8T0OXhP12gqTSyrjKpInewCLcB/s1600/DSC_8745.JPG)   MOSCMY 2016 Secretariat &amp; Volunteers      </description>
     </item>
     
   </channel>

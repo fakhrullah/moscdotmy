@@ -3,5 +3,38 @@
  */
 .sidebar-about .sitename {
 	font-size:2.5rem;
-	font-family: "Ubuntu", "Open Sans", sans-serif;
+	font-family: "PT Sans", sans-serif;
+	font-weight: bolder;
+}
+
+/**
+ * Add stripe background for sidebar
+ * and top bar for mobile.
+ */
+.sidebar {
+	background-image: url(/images/moscmy-sidebar-image.svg);
+	background-image: url(/images/moscmy-sidebar-image.png);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	background-position: 20%;
+	height: 100%;
+}
+
+@media (max-width: 48em) {
+	.sidebar {
+		background-position: -10%;
+	}
+}
+
+/**
+ * Add style on pinned article
+ */
+.post.pinned h1::before {
+    content: "#";
+    background-color: orange;
+    color: white;
+    display: inline-block;
+    padding: 0 10px;
+    border-radius: 2px;
+    transform: rotateZ(15deg);
 }
